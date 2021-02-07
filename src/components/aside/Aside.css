@@ -1,0 +1,7 @@
+.home-aside {
+  display: flex;
+  width: 30%;
+  background-color: #0e4f51;
+  align-items: center;
+  justify-content: center;
+}

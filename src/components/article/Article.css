@@ -1,0 +1,29 @@
+.home-article {
+  width: 70%;
+  background-color: #006437;
+  padding: 20px;
+}
+.home-article h3 {
+  margin: 20px;
+  color: #948448;
+  font-family: sans-serif;
+  font-size: 26px;
+  font-weight: 600;
+}
+
+.home-article p {
+  margin: 20px;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.image-article {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-article img {
+  width: 500px;
+  border-radius: 3px;
+}

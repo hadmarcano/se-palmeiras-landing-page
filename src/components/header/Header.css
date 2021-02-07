@@ -1,0 +1,19 @@
+.logo-title-container {
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.logo-title-container h1 {
+  font-family: "Oswald", sans-serif;
+  color: #fff;
+}
+
+.nav-container {
+  border-radius: 3px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #013c20;
+  margin-top: 10px;
+  padding: 5px;
+}
